@@ -1,6 +1,6 @@
-# Twikoo 评论系统
+<h1 align="center">💬 Twikoo 评论系统</h1>
 
-Twikoo 是一个简洁、安全、免费的静态网站评论系统，基于腾讯云 CloudBase 开发。
+<p align="center">一个简洁、安全、免费的静态网站评论系统，基于腾讯云 CloudBase 开发。</p>
 
 ## ✨ 特性
 
